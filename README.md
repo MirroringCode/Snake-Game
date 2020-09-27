@@ -9,4 +9,4 @@ The game was created to understand important concepts of vanilla javascript, and
 and by no means i want to plagiarize it nor claim that i made it, and I'm showing it here so everyone can see the results. Even though I'm still learning this particular field that is programming
 i hope this shows i've done a good job, and in the future be able to create more complex projects.
 
-Link to the game: mirroringcode.github.io/Snake-Game/
+Link to the game: https://mirroringcode.github.io/Snake-Game/
