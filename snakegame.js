@@ -10,13 +10,13 @@ let fps;
 let score;
 let isPaused;
 
-//inicializamos los objetos del juego
+//Initialize the objects of the game
 function init() {
 	
 	tileSize = 20; 
 	
 	
-	//Controlamos dinamicamente el tamaño de canvas.
+	//Dinamically control de size of the canvas.
 	
 	width = tileSize * Math.floor(window.innerWidth / tileSize);
 	
